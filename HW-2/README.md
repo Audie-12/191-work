@@ -4,9 +4,6 @@ This week has consisted of *uncertainty* and lots of **hope**. Uncertainty of ho
 
 To help keep not only mine but maybe your hopes too, here is a link to images of [cats](https://www.google.com/search?q=cats&espv=2&biw=1600&bih=794&site=webhp&source=lnms&tbm=isch&sa=X&ved=0ahUKEwitqujN0PrRAhXC6IMKHVK8CRkQ_AUIBigB)! Something to help take off the stress within this crazy week.
 
-- [cats](https://www.google.com/search?q=cats&espv=2&biw=1600&bih=794&site=webhp&source=lnms&tbm=isch&sa=X&ved=0ahUKEwitqujN0PrRAhXC6IMKHVK8CRkQ_AUIBigB)
-
-
 ## Things to Get Done This week
 
 - Learn the code language
