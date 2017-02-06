@@ -3,7 +3,7 @@
 This week has consisted of *uncertainty* and lots of **hope**. Hope to finally understand what is going on. Hope to be able to see the light at the end of the tunnel. Not just in this class because but with all of my other classes as well. This week has just been one of stress and confusion. But I have hope for the next few weeks to become a little less stressful and for me to finally comprehend what is going on.
 
 
-- [So and So's website] to create website link, actual link goes in (http://wwww.alskdjfldkjfaldfj.com)
+- [Google Images Cats](https://www.google.com/search?q=cats&espv=2&biw=1600&bih=794&site=webhp&source=lnms&tbm=isch&sa=X&ved=0ahUKEwitqujN0PrRAhXC6IMKHVK8CRkQ_AUIBigB)
 
 
 ## Things to Get Done This week
