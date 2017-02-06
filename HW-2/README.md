@@ -13,5 +13,5 @@ This week has consisted of *uncertainty* and lots of **hope**. Hope to finally u
 -Do this homework assignment number 2
 
 
-![This is my desktop pic](file of picture)
+![This is my desktop pic](MarkDownFile.png)
  commit put description then push to put on to website
