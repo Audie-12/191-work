@@ -4,4 +4,4 @@ This week I can say that I am following along pretty well with little to no ques
 
 ## HW-3 Self Portrait
 
-![My Cartoon Guy](file:///C:/Users/Audra/Documents/191-work/HW-3/index.html)
+![My Cartoon Guy](https://github.com/Audie-12/191-work/tree/master/HW-3/index.html)
