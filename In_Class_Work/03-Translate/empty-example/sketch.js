@@ -1,7 +1,7 @@
 function setup() {
-  createCanvas(500, 500);
+  createCanvas(800, 400);
   background(0, 253, 242);
-
+/*
   // example with push pop
 
     push();
@@ -30,7 +30,7 @@ function setup() {
     fill(30, 200, 10);
     triangle(0, -30, 0, 10, 50, 40);
     pop();
-
+*/
 
 
 // Translate moves all relatie positiion of all shape functions below it
@@ -42,6 +42,8 @@ function setup() {
   ellipse(-20, 0, 30, 20);
   ellipse(20, 0, 30, 20);
 */
+
+
 
 
 /*
