@@ -1,3 +1,12 @@
+
+// // create ball object
+// var ball = {};
+// ball.width = 40;
+// ball.x = 10;
+// ball.y = 10;
+// ball.dx = 1;
+// ball.dy = 1;
+
 var ball_width = 40;
 var ball_x = 10;
 var ball_y = 10;

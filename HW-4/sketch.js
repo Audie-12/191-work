@@ -1,21 +1,32 @@
 function setup() {
-  createCanvas(600,600);
+ createCanvas(600, 700);
+
 }
 
-var r = 0;
-var b = 255;
-
-
+var posX = 100;
+var posY = 100;
 
 function draw() {
 
-
-  r = map(mouseX, 0, 600, 0, 255);
-  b = map(mouseX, 0, 600, 255, 0);
   background(0);
-  fill(r, 0, b);
+
+  var bgVal;
+  bgVal = map(mouseX, 0, 600, 0, 255);
+  bgRed = map(mouseX, 0, 600, 0, 255);
+  bgGreen = map(mouseY, 0, 600, 0, 255);
+  bgBlue = map(mouseX, mouseY, 0, 600, 0, 255);
+
   stroke(255);
-  ellipse(mouseX, 200, 64, 64);
+  fill(bgRed, bgGreen, bgBlue);
+  ellipse(mouseX, mouseY, 64, 64);
+
+
+
+  fill(random(0, 266), random(0, 266), random(0, 266));
+  ellipse(posX, posY, 30, 50);
+  posX = posX + 1;
+  posY = posY + 1;
+  var currFrameRate;
+  currFrameRate = frameRate();
 
 }
-?
