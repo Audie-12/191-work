@@ -5,19 +5,22 @@ function setup() {
 
 function draw() {
 
-  var bgVal;
-  bgVal = map(mouseX, 0, 600, 0, 255);
-  bgRed = map(mouseX, 0, 600, 0, 255);
-  bgGreen = map(mouseY, 0, 600, 0, 255);
-  bgBlue = map(mouseX, mouseY, 0, 600, 0, 255);
+  var bgRed, bgGreen, bgBlue;
 
-// mapping mouseX to a usable range
-// bgVal = mouseX
-// bgVal = mouseX * 0.425
-  background(bgRed, bgGreen, bgBlue);
-  text(mouseX, 50, 50);
-  text(mouseY, 50, 65);
-  text(bgRed, 50, 80);
-  text(bgGreen, 50, 95);
-  text(bgBlue, 50, 110);
+     // Mapping mouseX to a usable range
+     // bgVal = mouseX;
+     // bgVal = mouseX * 0.425;
+     bgRed = map(mouseX, 0, 600, 0, 255);
+     bgGreen = map(mouseY, 0, 600, 0, 255);
+     bgBlue = map(mouseX + mouseY, 0, 1200, 255, 0);
+
+
+     background(bgRed, bgGreen, bgBlue);
+
+     text(mouseX, 200, 160);
+     text(mouseY, 200, 180);
+     text(mouseX + mouseY, 200, 200);
+     text(bgRed, 200, 230);
+     text(bgGreen, 200, 250);
+     text(bgBlue, 200, 270);
 }
