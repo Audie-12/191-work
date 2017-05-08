@@ -1,6 +1,6 @@
 // myClass
 function Emu() {
-
+// creates the size and speed along with the color.
   this.x = random(0, 600);
   this.y = random(0, 600);
   this.size = random(5, 25);
@@ -9,7 +9,7 @@ function Emu() {
   this.g = random(255);
   this.b = random(255);
 
-
+// is used to display the work, creates different effects when using different blend modes as well.
   this.display = function() {
     blendMode(DIFFERENCE);
     noStroke();
@@ -23,6 +23,7 @@ function Emu() {
     rect(this.x * 2, this.y * 2, this.size, this.size);
   };
 
+// function used to move the objects.
   this.move = function() {
     this.y = this.y - this.speed;
     if (this.y < width - this.size * 1.5){

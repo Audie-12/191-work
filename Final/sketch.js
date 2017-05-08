@@ -1,3 +1,4 @@
+// creates the ball and where it should be places and its size.
 var ball = {};
 ball.width = 40;
 ball.x = 10;
@@ -29,7 +30,7 @@ function draw() {
 
 }
 
-
+// maps out where the mouse is and has different colors for certain spots on the map.
 var bgVal;
 bgVal = map(mouseX, 0, 600, 0, 255);
 bgRed = map(mouseX, 0, 600, 0, 255);
