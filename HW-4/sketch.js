@@ -22,11 +22,11 @@ function draw() {
 
 
 
-  fill(random(0, 266), random(0, 266), random(0, 266));
-  ellipse(posX, posY, 30, 50);
-  posX = posX + 1;
-  posY = posY + 1;
-  var currFrameRate;
-  currFrameRate = frameRate();
+  // fill(random(0, 266), random(0, 266), random(0, 266));
+  // ellipse(posX, posY, 30, 50);
+  // posX = posX + 1;
+  // posY = posY + 1;
+  // var currFrameRate;
+  // currFrameRate = frameRate();
 
 }
